@@ -49,7 +49,3 @@ terraform init
 terraform plan
 terraform apply
 terraform destroy
-
----
-
-※AWS課金を防ぐため、検証後は必ずリソースを削除してください。
