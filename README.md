@@ -49,3 +49,7 @@ terraform init
 terraform plan
 terraform apply
 terraform destroy
+```
+
+※不要な課金を防ぐため、使用後は必ず削除してください。
+
